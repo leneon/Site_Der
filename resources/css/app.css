@@ -1,0 +1,10 @@
+.err{
+    color:red;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 10px;
+
+}
+body{
+    color: rgb(177, 9, 9);
+}
